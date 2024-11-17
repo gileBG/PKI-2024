@@ -20,4 +20,4 @@ Prikaz svih direktorijuma:
 
 ## Dodatne informacije
 
-Aplikacija koristi Angular router koji zahteva da prilikom pustanja aplikacije u produkciju svaka putanja redirektovana na index.html dadoteku jer su rute definisane programski u javascript-u a ne fizicki postajenjem direktorijuma.
+Aplikacija koristi Angular router koji zahteva da prilikom pustanja aplikacije u produkciju svaka putanja bude redirektovana na index.html dadoteku jer su rute definisane programski u javascript-u a ne fizicki postajenjem direktorijuma.
